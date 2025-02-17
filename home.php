@@ -393,7 +393,7 @@ function executeQuery($query) {
 
     <nav class="navbar">
         <div class="navdiv">
-            <h2>Department : <?php echo htmlspecialchars($department); ?></h2>
+            <h2>DEPARTMENT : <?php echo htmlspecialchars($department); ?></h2>
         </div>
     </nav>
     <div class="wrapper">
